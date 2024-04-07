@@ -1,4 +1,3 @@
-<img src="link_to_your_image" alt="Berk's Profile Picture" style="display: block; margin: auto; border-radius: 50%;"/>
 
 <h1 align="center">Hi 👋, I'm Berk</h1>
 <h3 align="center">web developer</h3>
