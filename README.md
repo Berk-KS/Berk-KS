@@ -1,3 +1,4 @@
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ntc.edu%2Facademics-training%2Fprograms%2Fall%2Fassociate-degree%2Fit-software-developer&psig=AOvVaw31Hw0FI60xl7yl-_SZkoU_&ust=1712600869075000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNjwy8rdsIUDFQAAAAAdAAAAABAE
 <h1 align="center">Hi 👋, I'm Berk</h1>
 <h3 align="center">web developer</h3>
 
