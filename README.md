@@ -1,7 +1,6 @@
-
+![GithubProfilePictures](https://github.com/Berk-KS/Berk-KS/assets/84679622/caa8ad8e-d43e-4ea1-8581-a6beae849273)
 <h1 align="center">Hi 👋, I'm Berk</h1>
-<h3 align="center">web developer</h3>
-
+<h3 align="center">Web Developer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,8 +28,7 @@
   <a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/></a>
 </p>
 
-<div style="text-align: center;">
+<div align: center;">
    <img src="https://github-readme-stats.vercel.app/api?username=berk-ks&show_icons=true&locale=en" alt="berk-ks" />
 </div>
-
 
