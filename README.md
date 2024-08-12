@@ -1,10 +1,10 @@
 ![GithubProfilePictures](https://github.com/Berk-KS/Berk-KS/assets/84679622/caa8ad8e-d43e-4ea1-8581-a6beae849273)
 <h1 align="center">Hi 👋, I'm Berk</h1>
-<h3 align="center">Web Developer</h3>
+<h3 align="center">Jr. C# .Net Developer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/berk-köse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="berk-köse" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/berk-köse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="berk-köse" height="40" width="50" /></a>
 <a href="https://medium.com/@berk kose" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@berk kose" height="30" width="40" /></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
